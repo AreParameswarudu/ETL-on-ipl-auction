@@ -1,0 +1,1514 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>parameswarudu are</Author>
+  <LastAuthor>parameswarudu are</LastAuthor>
+  <Created>2024-12-10T16:22:01Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7545</WindowHeight>
+  <WindowWidth>21360</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="ipl_auction_data (1)">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="183" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">Title</Data></Cell>
+    <Cell><Data ss:Type="String">Player</Data></Cell>
+    <Cell><Data ss:Type="String">National/Internatinal</Data></Cell>
+    <Cell><Data ss:Type="String">Start_Bid_in_cr</Data></Cell>
+    <Cell><Data ss:Type="String">Winning_Bid_in_cr</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Noor Ahmad  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Ravichandaran Ashwin</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">9.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Devon Conway  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6.25</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Syed Khaleel Ahmed</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Rachin Ravindra  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Anshul Kamboj</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Rahul Tripathi</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Sam Curran  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Gurjapneet Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">2.2000000000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Nathan Ellis  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.25</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Deepak Hooda</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Jamie Overton  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Vijay Shankar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Vansh Bedi</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.55000000000000004</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Andre Siddarth</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Shreyas Gopal</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Ramakrishna Ghosh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Kamlesh Nagarkoti</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Mukesh Choudhary</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Chennai Super Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Shaik Rasheed</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">KL Rahul</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Mitchell Starc  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">11.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">T. Natarajan</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Jake Fraser-Mcgurk  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Mukesh Kumar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Harry Brook  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6.25</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Ashutosh Sharma</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">3.8</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Mohit Sharma</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2.2000000000000002</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Faf Du Plessis  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Sameer Rizvi</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.95</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Donovan Ferreira  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Dushmantha Chameera  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Vipraj Nigam</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Karun Nair</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Madhav Tiwari</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Tripurana Vijay</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Manvanth Kumar L</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Ajay Mandal</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Delhi Capitals</Data></Cell>
+    <Cell><Data ss:Type="String">Darshan Nalkande</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Jos  Buttler   </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">15.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Mohammad Siraj</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">12.25</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Kagiso Rabada  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Prasidh Krishna</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">9.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Washington Sundar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3.2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Sherfane Rutherford  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Gerald Coetzee  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.25</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Glenn Phillips  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">R. Sai Kishore</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Mahipal Lomror</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Gurnoor Singh Brar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Mohd. Arshad Khan</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Karim Janat  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Jayant Yadav</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Ishant Sharma</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Kumar Kushagra</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.65</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Kulwant Khejroliya</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Manav Suthar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Anuj Rawat</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Gujarat Titans</Data></Cell>
+    <Cell><Data ss:Type="String">Nishant Sindhu</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Venkatesh Iyer</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">23.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Anrich Nortje  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Quinton De Kock  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3.6</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Angkrish Raghuvanshi</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Spencer Johnson  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2.8</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Moeen Ali  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Rahmanullah Gurbaz  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Vaibhav Arora</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.8</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Ajinkya Rahane</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Rovman Powell  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Umran  Malik</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Manish Pandey</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Anukul Roy</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Luvnith Sisodia</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Kolkata Knight Riders</Data></Cell>
+    <Cell><Data ss:Type="String">Mayank Markande</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Rishabh Pant</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Avesh Khan</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">9.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Akash Deep</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">David Miller  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Abdul Samad</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Mitchell Marsh  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3.4</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Shahbaz Ahamad</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Aiden Markram  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Matthew Breetzke  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Shamar Joseph  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">M. Siddharth</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Arshin Kulkarni</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Rajvardhan Hangargekar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Yuvraj Chaudhary</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Prince Yadav</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Akash Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Digvesh Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Himmat Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Lucknow Super Giants</Data></Cell>
+    <Cell><Data ss:Type="String">Aryan Juyal</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Trent Boult  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Deepak Chahar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">9.25</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Will Jacks  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">5.25</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Naman Dhir</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">5.25</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Allah  Ghazanfar  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Mitchell Santner  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Ryan Rickelton  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Lizaad Williams  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Reece Topley  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Robin Minz</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.65</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Karn Sharma</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Vignesh Puthur</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Arjun  Tendulkar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Bevan John Jacobs  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Venkata Satyanarayana Penmetsa</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Raj Angad Bawa</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Shrijith Krishnan</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Mumbai Indians</Data></Cell>
+    <Cell><Data ss:Type="String">Ashwani Kumar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Shreyas Iyer</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">26.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Yuzvendra Chahal</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Arshdeep Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Marcus Stoinis  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Marco Jansen  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.25</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Nehal Wadhera</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Glenn Maxwell  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Priyansh Arya</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">3.8</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Josh Inglis  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Azmatullah Omarzai  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Lockie Ferguson  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Vyshak Vijaykumar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.8</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Yash Thakur</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Harpreet  Brar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Aaron Hardie  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.25</Data></Cell>
+    <Cell><Data ss:Type="Number">1.25</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Vishnu Vinod</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.95</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Xavier Bartlett  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Kuldeep  Sen</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Pravin Dubey</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Pyla Avinash</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Suryansh  Shedge </Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Musheer Khan</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Punjab Kings</Data></Cell>
+    <Cell><Data ss:Type="String">Harnoor Pannu</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Jofra Archer  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Tushar Deshpande</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Wanindu Hasaranga  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">5.25</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Maheesh Theekshana  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4.4000000000000004</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Nitish Rana</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Fazalhaq Farooqi  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Kwena Maphaka  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Akash Madhwal</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Vaibhav Suryavanshi</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1000000000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Shubham Dubey</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Yudhvir Charak</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.35</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Ashok Sharma</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Kunal Rathore</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Rajasthan Royals</Data></Cell>
+    <Cell><Data ss:Type="String">Kumar Kartikeya Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Josh Hazlewood   </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">12.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Phil Salt  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">11.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Jitesh Sharma</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Bhuvneshwar Kumar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Liam Livingstone  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Rasikh Dar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Krunal Pandya</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">5.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Tim David  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Jacob Bethell  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.25</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Suyash Sharma</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Devdutt Padikkal</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Nuwan Thushara  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Romario Shepherd  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Lungisani Ngidi  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Swapnil Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Mohit Rathee</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Abhinandan Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Swastik Chhikara</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Royal Challengers Bengaluru</Data></Cell>
+    <Cell><Data ss:Type="String">Manoj Bhandage</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Ishan Kishan</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">11.25</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Mohammad Shami</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Harshal Patel</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Abhinav Manohar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">3.2</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Rahul Chahar</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3.2</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Adam Zampa  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Simarjeet Singh</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Eshan Malinga  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Brydon Carse  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Jaydev Unadkat</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Kamindu Mendis  </Data></Cell>
+    <Cell><Data ss:Type="String">International</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell><Data ss:Type="String">Capped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Zeeshan Ansari</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Sachin Baby</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Aniket Verma</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Sunrisers Hyderabad</Data></Cell>
+    <Cell><Data ss:Type="String">Atharva Taide</Data></Cell>
+    <Cell><Data ss:Type="String">National</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell><Data ss:Type="String">Uncapped</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
