@@ -2,6 +2,9 @@
 ### Description
 This project involves extracting, transforming, and loading (ETL) IPL auction data for the year 2025, followed by creating visualizations. The aim is to provide insightful analysis and visual representation of the IPL auction data.<br>
 This project showcases the end-to-end process of web scraping IPL auction data, storing it in a MySQL local server, and visualizing the data using Power BI. The data provides insights into the auction trends, player statistics, and other key metrics of the IPL auction 2025.
+<br>
+### A sipmple outline of the project
+![Screenshot 2024-12-28 192048](https://github.com/user-attachments/assets/6f9f8e10-f35e-43e9-bb1d-9f5b88b83e74)
 
 ### Table of Contents
 ## Introduction: 
@@ -40,3 +43,7 @@ This project showcases the end-to-end process of web scraping IPL auction data, 
  ### Visualization tools used: 
  Power BI Desktop.
 <br>
+
+### A basic outlook on the dashboard:
+![Screenshot 2024-12-16 204104](https://github.com/user-attachments/assets/169f86d1-9a33-4a1a-99a7-07b891c2953a)
+
